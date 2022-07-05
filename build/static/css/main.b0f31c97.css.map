@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.b0f31c97.css","mappings":"AAAA,cACI,sBAAuB,CACvB,iBACJ","sources":["index.css"],"sourcesContent":[".notification{\n    background-color: green;\n    text-align: center;\n}"],"names":[],"sourceRoot":""}
